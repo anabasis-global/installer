@@ -1,0 +1,4 @@
+name: Office
+version: '2021'
+sources: ''
+config: 'config.xml'
